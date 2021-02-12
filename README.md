@@ -26,7 +26,7 @@
 
 <code><img height="30" src="https://hatscripts.github.io/circle-flags/flags/ru.svg"></code>
 <code><img height="30" src="https://hatscripts.github.io/circle-flags/flags/en.svg"></code>
-<code><img height="30" src="https://hatscripts.github.io/circle-flags/flags/aze.svg"></code>
+<code><img height="30" src="https://hatscripts.github.io/circle-flags/flags/az.svg"></code>
 <code><img height="30" src="https://hatscripts.github.io/circle-flags/flags/tr.svg"></code>
 
 ```
