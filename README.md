@@ -19,14 +19,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
 <code><img height="20" src="https://cdn.discordapp.com/emojis/403294924432211968.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
 
 
 <code><img height="20" src="https://code.visualstudio.com/favicon.ico"></code>
 
-<code><img height="30" src="https://mirayxs.github.io/SplatHeX/splat2/flags/az.png"></code>
+<code><img height="30" src="https://mirayxs.github.io/SplatHeX/splat2/flags/aze.png"></code>
 <code><img height="30" src="https://mirayxs.github.io/SplatHeX/splat2/flags/en.png"></code>
 <code><img height="30" src="https://mirayxs.github.io/SplatHeX/splat2/flags/ru.png"></code>
-<code><img height="30" src="https://mirayxs.github.io/SplatHeX/splat2/flags/ru.png"></code>
+<code><img height="30" src="https://mirayxs.github.io/SplatHeX/splat2/flags/tr.png"></code>
 
 ```
 currently studying french.
