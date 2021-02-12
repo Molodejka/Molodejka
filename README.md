@@ -51,8 +51,8 @@ currently studying french.
   <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/pronouns/hehim.svg" alt="he / him" style="vertical-align:top; margin:6px 4px">
 
 ## MAIN DISCORD ACCOUNT
-![](https://img.shields.io/endpoint?label=Status&url=https://dev.discordprofiles.me/api/badge/status/325605285731500033?simple=true&logo=discord&logoColor=white&color=43B581)
-![](https://img.shields.io/endpoint?label=Playing&url=https://dev.discordprofiles.me/api/badge/playing/325605285731500033?vscode=false&logo=nintendo-switch&color=8A96E9)
+![](https://img.shields.io/endpoint?label=Status&url=https://dev.discordprofiles.me/api/badge/status/191280199143260161?simple=true&logo=discord&logoColor=white&color=43B581)
+![](https://img.shields.io/endpoint?label=Playing&url=https://dev.discordprofiles.me/api/badge/playing/191280199143260161?vscode=false&logo=nintendo-switch&color=8A96E9)
 
-![](https://img.shields.io/endpoint?label=Visual%20Studio%20Code&url=https://dev.discordprofiles.me/api/badge/vscode/325605285731500033)
-![](https://img.shields.io/endpoint?label=Spotify&url=https://dev.discordprofiles.me/api/badge/spotify/325605285731500033&color=1ED45F)
+![](https://img.shields.io/endpoint?label=Visual%20Studio%20Code&url=https://dev.discordprofiles.me/api/badge/vscode/191280199143260161)
+![](https://img.shields.io/endpoint?label=Spotify&url=https://dev.discordprofiles.me/api/badge/spotify/191280199143260161&color=1ED45F)
