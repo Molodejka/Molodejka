@@ -25,9 +25,9 @@
 <code><img height="20" src="https://code.visualstudio.com/favicon.ico"></code>
 
 <code><img height="30" src="https://hatscripts.github.io/circle-flags/flags/ru.svg"></code>
-<code><img height="30" src="https://mirayxs.github.io/SplatHeX/splat2/flags/en.png"></code>
-<code><img height="30" src="https://mirayxs.github.io/SplatHeX/splat2/flags/ru.png"></code>
-<code><img height="30" src="https://mirayxs.github.io/SplatHeX/splat2/flags/tr.png"></code>
+<code><img height="30" src="https://hatscripts.github.io/circle-flags/flags/en.svg"></code>
+<code><img height="30" src="https://hatscripts.github.io/circle-flags/flags/aze.svg"></code>
+<code><img height="30" src="https://hatscripts.github.io/circle-flags/flags/tr.svg"></code>
 
 ```
 currently studying french.
