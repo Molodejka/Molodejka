@@ -20,7 +20,8 @@
 <code><img height="20" src="https://cdn.discordapp.com/emojis/403294924432211968.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
 <code><img height="20" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png"></code>
-
+  
+<code><img height="20" src="https://image.flaticon.com/icons/png/512/906/906324.png"></code>
 <code><img height="20" src="https://code.visualstudio.com/favicon.ico"></code>
 
 <code><img height="30" src="https://hatscripts.github.io/circle-flags/flags/ru.svg"></code>
