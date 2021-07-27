@@ -1,6 +1,8 @@
 <div align="center">
 
 ### Hello, I'm [GameOverAgain!](https://gameovers.net) <a href="https://discord.gg/qPy6nu9"><img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" alt="Discord" width="27px"></a>
+  
+  Now I am studying administrative management and state and municipal management, bachelor's education, coding is my hobby, along with my studies, if you have any questions, write to me in Discord, I usually go there. I wish you a good day :)
 
 [![](https://discordapp.com/api/guilds/701057137698406431/embed.png?style=banner2)](https://discord.gg/qPy6nu9)
 
