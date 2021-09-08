@@ -4,6 +4,7 @@
   
   Now I am studying administrative management and state and municipal management, bachelor's education, coding is my hobby, along with my studies, if you have any questions, write to me in Discord, I usually go there. I wish you a good day :)
 
+![](https://komarev.com/ghpvc/?username=Molodejka) </br>
 [![](https://discordapp.com/api/guilds/701057137698406431/embed.png?style=banner2)](https://discord.gg/qPy6nu9)
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Molodejka&show_icons=true&line_height=27&include_all_commits=true&count_private=true" />
