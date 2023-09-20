@@ -7,7 +7,6 @@ I'm currently pursuing a bachelor's degree in Administrative Management and Stat
 ![](https://komarev.com/ghpvc/?username=Molodejka) </br>
 [![](https://discordapp.com/api/guilds/701057137698406431/embed.png?style=banner2)](https://discord.gg/qPy6nu9)
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Molodejka&show_icons=true&line_height=27&include_all_commits=true&count_private=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Molodejka&exclude_repo=RBLXHUB,MirayCDN,NHSE-VillagerDB" alt="MirayXS's github stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Molodejka" />
 
