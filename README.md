@@ -1,9 +1,5 @@
 <div align="center">
 
-### Hello, I'm [GameOverAgain!](https://gameovers.net) <a href="https://discord.gg/qPy6nu9"><img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" alt="Discord" width="27px"></a>
-  
-I'm currently pursuing a bachelor's degree in Administrative Management and State & Municipal Management. Alongside my studies, I enjoy coding as a hobby. If you have any questions, feel free to reach out to me on Discord—I'm frequently active there. Wishing you a great day! :)
-
 ![](https://komarev.com/ghpvc/?username=Molodejka) </br>
 [![](https://discordapp.com/api/guilds/701057137698406431/embed.png?style=banner2)](https://discord.gg/qPy6nu9)
 
